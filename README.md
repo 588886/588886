@@ -44,17 +44,15 @@
 
 ### Studying
 How to Skill up myself?
- - Baekjoon을 사용하여 알고리즘 문제풀이를 통한 언어 실력 향상중입니다. 
- - 이론적 학습의 갈증을 해결하기 위해 정보처리기사 자격증을 준비하여 2023년도 1회차 필기시험의 (가답안) 합격 상태입니다. 
+ - Baekjoon, 프로그래머스 스쿨을 사용하여 알고리즘 문제풀이를 통한 논리력과 언어 실력을 향상중입니다. 
+ - 이론적 학습의 갈증을 해결하기 위해 정보처리기사 자격증을 준비하고 있습니다. 
  - "왜"라는 질문을 통해 능동적 해결력을 기르기 위해 노력합니다. 
- - Baekjoon을 사용하여 알고리즘 문제를 풀어봄으로써 논리력을 기르고 있습니다.
- - 이론적 학습의 갈증을 해결하기 위해  2023년도 1회차  정보처리기사 필기를 합격했습니다. 동차 합격을 목표로 실기를 준비하고 있습니다. 
- - "왜"라는 질문을 통해 능동적인 문제 해결력을 기르기 위해 노력합니다. 
- - 교육 과정에 없었던 TypeScript, Firebase, InteliJ 를 사용함으로써 새로운 개발 언어와 툴들을 익히기 위해 노력합니다.   
 
 <div>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=58886)](https://github.com/anuraghazra/github-readme-stats)
-<img src="https://github-readme-stats.vercel.app/api?username=58886&show_icons=true">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=588886&layout=compact">
+
+<img src="https://github-readme-stats.vercel.app/api?username=588886&show_icons=true">
+
 </div>
 
