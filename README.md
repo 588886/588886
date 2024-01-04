@@ -2,7 +2,7 @@
 
 
 # My Portfolio
-<a href="https://www.notion.so/">
+<a href="https://www.notion.so/Hyunsic-s-Portfolio-6e7ffe92e5e946b38546c163ac8ecfa9">
 	<img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white" /></a>
  
 ## Introduction
