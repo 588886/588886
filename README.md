@@ -23,7 +23,7 @@
 - 프로젝트 기간: 2023/11/25 ~ 2023/12/18
 - 프로젝트 설명: <br/>교육 과정의 팀프로젝트로 스마트팜을 기반으로 체험프로그램을 운영하는 회사의 웹사이트를 개발했습니다.<br/>
   		저는 이 프로젝트에서 전체적인 기획과 DB설계 및 로그인, 프로그램과 체험인원 등록 및 관리와 같은 관리자 페이지와 지도부분을 중점으로 맡았습니다.
-- 깃허브 주소 : <a href="https://github.com/588886/Project"><img src="https://img.shields.io/badge/Arduino-00878F?style=flat&logo=Arduino&logoColor=white" /></a>
+- 깃허브 주소 : <a href="https://github.com/588886/Project"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white" /></a>
 
 ## Skills
 ### Lagnuages & Platforms
