@@ -22,6 +22,13 @@
 - 프로젝트 설명: <br/>교육 과정의 팀프로젝트로 스마트팜을 기반으로 체험프로그램을 운영하는 회사의 웹사이트를 개발했습니다.<br/>
   		저는 이 프로젝트에서 전체적인 기획과 DB설계 및 로그인, 프로그램과 체험인원 등록 및 관리와 같은 관리자 페이지와 지도부분을 중점으로 맡았습니다.
 - 깃허브 주소 : <a href="https://github.com/588886/Project"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white" /></a>
+### Project 3
+- 프로젝트 이름: 위*경도 변환 사이트
+- 프로젝트 기간: 2024/02/10 ~ 2024/02/20
+- 프로젝트 설명: <br/>개인 프로젝트로서 위도나 경도 등을 확인해야하는 경우가 있을 때 매번 찾는 고생을 덜고자 직접 만들었습니다.<br/>
+  		우선 다음맵 API를 통해 정확한 주소를 추출하고 그 주소를 토대로 경도와 위도를 추출하는 간단한 사이트를 제작하였습니다.
+  		또한 학원에서 배웠던 레거시 프로젝트가 아닌 그래들을 이용한 프로젝트의 진행방식을 익히기위해 그래들로 제작해봤습니다.
+- 깃허브 주소 : <a href="https://github.com/588886/trans-lines-of-longitude-and-latitude"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white" /></a>
 
 ## Skills
 ### Lagnuages & Platforms
