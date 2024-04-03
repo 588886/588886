@@ -61,7 +61,7 @@
 - 프로젝트 중 에로사항과 해결방안 :
   	- 학원에서 배웠던 방식이 아닌 방식이라 어디에 파일을 둬야하는지부터 제대로 파악이 힘들었습니다.<br/>
 	그래서 인프런 강의 및 검색을 통해 어디에 있는 파일을 가져오는를 확인하여 작성하였습니다.
-- 깃허브 주소 : <a href="https://github.com/588886/trans-lines-of-longitude-and-latitude"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white" /></a>
+- 깃허브 주소 : <a href="https://github.com/588886/address"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white" /></a>
 
 ## Skills
 ### Lagnuages & Platforms
