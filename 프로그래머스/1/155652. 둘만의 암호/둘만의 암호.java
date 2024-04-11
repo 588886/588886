@@ -7,18 +7,9 @@ class Solution {
 			int skip_index=0;
 			while(count<index) {
 				count++;
-				s_chars[i]++;
-                if(s_chars[i]==123) {
-					s_chars[i]=(char)97;
-				}
+				s_chars[i]= s_chars[i]==122 ? (char)97:(char)(s_chars[i]+1);
 				while(skip.contains(s_chars[i]+"")) {
-					s_chars[i]++;
-					if(s_chars[i]==123) {
-						s_chars[i]=(char)97;
-					}
-				}
-				if(s_chars[i]==123) {
-					s_chars[i]=(char)97;
+					s_chars[i]= s_chars[i]==122 ? (char)97:(char)(s_chars[i]+1);
 				}
 			}
 		}
